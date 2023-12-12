@@ -4,25 +4,25 @@ Bem-vindo ao meu repositório de estudo sobre JavaScript! Aqui, documentarei meu
 
 ## Objetivo 🎯
 
-O objetivo deste repositório é consolidar meu conhecimento em JavaScript, desde conceitos básicos até tópicos mais avançados. Além disso, estou focado em ampliar minhas habilidades em várias tecnologias web, incluindo:
+O objetivo deste repositório é consolidar meu conhecimento em JavaScript, desde conceitos básicos até tópicos mais avançados. Além disso, estou focado em ampliar minhas habilidades em várias tecnologias web.
 
 - **Frontend:**
-  - JavaScript
-  - HTML
-  - CSS
-  - jQuery
-  - Bootstrap
-  - React
-  - Vue
-  - Next
+  - **JavaScript:** Linguagem de programação essencial para o desenvolvimento web.
+  - **HTML:** Linguagem de marcação para estruturar conteúdo web.
+  - **CSS:** Estilo para tornar as páginas web visualmente atraentes.
+  - **jQuery:** Biblioteca JavaScript para simplificar interações com HTML.
+  - **Bootstrap:** Framework CSS para design responsivo e componentes prontos.
+  - **React:** Biblioteca para construir interfaces de usuário interativas.
+  - **Vue:** Framework progressivo para a construção de interfaces de usuário.
+  - **Next:** Framework React para renderização do lado do servidor.
 
 - **Backend:**
-  - Node.js
-  - MySQL
+  - **Node.js:** Ambiente de execução JavaScript no lado do servidor.
+  - **MySQL:** Sistema de gerenciamento de banco de dados relacional.
 
 - **Ferramentas e Ambiente:**
-  - Webpack
-  - Gulp
+  - **Webpack:** Empacotador de módulos JavaScript, CSS, entre outros.
+  - **Gulp:** Ferramenta de automação de tarefas em JavaScript.
 
 Este repositório também inclui a implementação de projetos práticos para aplicar os conhecimentos adquiridos.
 
@@ -30,11 +30,13 @@ Este repositório também inclui a implementação de projetos práticos para ap
 
 Atualmente, estou seguindo um programa abrangente de aprendizado que abrange os seguintes cursos e projetos:
 
-- Curso de JavaScript Moderno do básico ao avançado
-- Curso de Angular: Do básico ao avançado
-- Curso de React: Desenvolvimento de Aplicações Modernas
-- Curso de Node.js: Construindo Aplicações Web e APIs
-- 10 Projetos com HTML, CSS e JavaScript
-- ... (e mais)
+  - Angular, React, Vue
+  - Node.js, HTML5, CSS3, Gulp, Webpack, jQuery, Bootstrap
+  - MySQL, MongoDB, Electron
+  - Paradigmas de programação: Funcional, Orientação a Objeto
+  - Desenvolvimento Fullstack com projetos reais.
+
+- **10 Projetos com HTML, CSS e JavaScript**
+  - Implementação prática de projetos web usando tecnologias fundamentais.
 
 Vamos aprender juntos! 🚀
