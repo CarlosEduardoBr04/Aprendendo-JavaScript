@@ -1,9 +1,8 @@
-
-# Aprendendo JavaScript
+# Aprendendo JavaScript 🌐
 
 Bem-vindo ao meu repositório de estudo sobre JavaScript! Aqui, documentarei meu progresso e aprendizado enquanto exploro os fundamentos e as nuances desta poderosa linguagem de programação.
 
-## Objetivo
+## Objetivo 🎯
 
 O objetivo deste repositório é consolidar meu conhecimento em JavaScript, desde conceitos básicos até tópicos mais avançados. Além disso, estou focado em ampliar minhas habilidades em várias tecnologias web, incluindo:
 
@@ -27,7 +26,7 @@ O objetivo deste repositório é consolidar meu conhecimento em JavaScript, desd
 
 Este repositório também inclui a implementação de projetos práticos para aplicar os conhecimentos adquiridos.
 
-## Cursos e Recursos
+## Cursos e Recursos 📚
 
 Atualmente, estou seguindo um programa abrangente de aprendizado que abrange os seguintes cursos e projetos:
 
@@ -39,4 +38,3 @@ Atualmente, estou seguindo um programa abrangente de aprendizado que abrange os 
 - ... (e mais)
 
 Vamos aprender juntos! 🚀
-```
