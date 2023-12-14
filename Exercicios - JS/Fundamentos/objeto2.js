@@ -1,10 +1,17 @@
-console.log(typeof Object)
-console.log(typeof new Object)
+// 'typeof Object' retorna 'function', pois Object é uma função.
+console.log(typeof Object);
 
-const cliente = function() {}
-console.log(typeof cliente)
-console.log(typeof new cliente)
+// 'typeof new Object' retorna 'object', pois 'new Object' cria uma instância de um objeto.
+console.log(typeof new Object);
 
-class produto {} // ES 2015 (ES6)
-console.log(typeof produto)
-console.log(typeof new produto())
+// 'typeof cliente' retorna 'function', pois cliente é uma função.
+console.log(typeof cliente);
+
+// 'typeof new cliente' retorna 'object', pois 'new cliente()' cria uma instância de um objeto.
+console.log(typeof new cliente);
+
+// 'typeof produto' retorna 'function', pois produto é uma classe (que é uma função no JavaScript).
+console.log(typeof produto);
+
+// 'typeof new produto()' retorna 'object', pois 'new produto()' cria uma instância de um objeto.
+console.log(typeof new produto());

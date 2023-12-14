@@ -1,6 +1,7 @@
 const func = [];
 
 for (var i = 0; i < 10; i++) {
+    // Todas as funções no array 'func' compartilham a mesma referência de 'i'.
     func.push(function () {
         console.log(i);
     });
